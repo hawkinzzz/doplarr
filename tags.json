@@ -2,26 +2,26 @@
   "tags": [
     {
       "name": "release",
-      "version": "3.4.1",
-      "commit": "0849f74",
+      "version": "",
+      "commit": "",
       "upstream": "Releases",
-      "lastUpdated": "2021-09-23T07:38:51.656Z"
+      "lastUpdated": ""
     },
     {
       "name": "testing",
-      "version": "3.4.1",
-      "commit": "e092bb7",
-      "upstream": "Pre-releases",
-      "lastUpdated": "2021-09-23T07:38:40.959Z"
+      "version": "",
+      "commit": "",
+      "upstream": "",
+      "lastUpdated": ""
     },
     {
       "name": "nightly",
-      "version": "447a7b684c32ca28dc8dfff285330c2c7de98377",
-      "commit": "66cec52",
-      "upstream": "Every commit to develop",
-      "lastUpdated": "2021-09-23T06:57:54.793Z"
+      "version": "",
+      "commit": "",
+      "upstream": "",
+      "lastUpdated": ""
     }
   ],
-  "pulls": 2461285,
-  "stars": 3
+  "pulls": 0,
+  "stars": 0
 }
